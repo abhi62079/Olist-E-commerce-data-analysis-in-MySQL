@@ -1,18 +1,17 @@
-# Olist E-commerce data analysis in MySQL
+Olist E-commerce Data Analysis in MySQL
 
-In this project, I used the Olist e-commerce dataset on Kaggle to explore the information it provides.
+## Project Overview
+
+This project focuses on analyzing the Olist e-commerce dataset from Kaggle using MySQL. The dataset contains extensive information on orders, customers, products, sellers, and reviews. Through structured queries and analytical techniques, the project aims to extract valuable business insights and explore data-driven decision-making in the e-commerce sector.
 
 ## Motivation
+E-commerce has transformed shopping by eliminating geographical and temporal boundaries, enabling consumers to shop anytime and anywhere. My motivation for this project stems from a deep interest in understanding the operational dynamics of e-commerce platforms, their impact on consumer behavior, and how data analytics can reveal key business insights. By working on this project, I aim to uncover patterns, track sales performance, and understand customer preferences, contributing to better business strategies in the e-commerce industry.
 
-E-commerce has changed how we shop without limitations of time and space. I am interested in how e-commerce operates differently in consumer culture. 
 
 ## Method and results
+Tools: [MYSQL](https://github.com/abhi62079/Olist-E-commerce-data-analysis-in-MySQL)
 
-Tools: [MYSQL](https://github.com/ming-shan-lu/Olist/blob/main/Olist.sql) [Tableau](https://public.tableau.com/app/profile/ming.shan.lu/viz/OlistE-commercePerformanceDashboard/Olist_dashboard)
- 
 Results:
-
-
          The revenue from 09/2016 to 10/2018 was 15.4 million, and the orders from 09/2016 to 10/2018 were 96,470.
          The sales continuously increased over time.
          
