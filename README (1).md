@@ -11,7 +11,7 @@ E-commerce has transformed shopping by eliminating geographical and temporal bou
 ## Method and results
 Tools: [MYSQL](https://github.com/abhi62079/Olist-E-commerce-data-analysis-in-MySQL)
 
-Visualization:(![olist_visualization](https://github.com/user-attachments/assets/dbc537ed-ff00-447d-80cc-b2f96901afdc)
+Visualization:![olist_visualization](https://github.com/user-attachments/assets/dbc537ed-ff00-447d-80cc-b2f96901afdc)
 
 
 Results:
